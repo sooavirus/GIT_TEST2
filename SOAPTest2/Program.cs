@@ -11,6 +11,7 @@ namespace SOAPTest2
     {
         static void Main(string[] args)
         {
+            // Test for inno!!!!
             HDEL_PP_GET_ZPPR005Client client = new HDEL_PP_GET_ZPPR005Client();
             FlexNet.WebServices.HDEL_PP_GET_ZPPR005Inputs inputs = new FlexNet.WebServices.HDEL_PP_GET_ZPPR005Inputs();
             inputs.AUFNR = "000010784729";
